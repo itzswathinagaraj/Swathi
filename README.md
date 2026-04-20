@@ -21,7 +21,7 @@
 | [AI Resume Analyzer](https://github.com/itzswathinagaraj/AI-Resume-Analyzer) | Analyzes resumes & gives ATS score | Python, Flask |
 | [Adaptive Learning AI](https://github.com/itzswathinagaraj/adaptive-learning-ai) | AI-powered learning platform | Node.js |
 | [Event Management](https://github.com/itzswathinagaraj/minihackathon) | Event registration system | Python, Flask |
-
+| Multimodal Annotation System | Annotates images, text, audio & video data for AI training | Python |
 ---
 
 ### 🛠️ Currently Learning
